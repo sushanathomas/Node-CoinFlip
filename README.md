@@ -2,7 +2,9 @@
 
 A simple coin flip guessing game built with HTML, CSS, JavaScript, and Node.js.
 
-## Project Preview 
+## Project Preview & Site Link
+
+Render: https://node-coinflip.onrender.com
 
 <img width="680" height="445" alt="coin flip" src="https://github.com/user-attachments/assets/4e8151a6-8a5d-42d5-b9a7-660a0f8437dd" />
 
