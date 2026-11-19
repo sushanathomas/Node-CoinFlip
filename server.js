@@ -70,8 +70,8 @@ const server = http.createServer(function (req, res) {
                 res.end(JSON.stringify(objToJson));
             }
         }
-    } else if (page === '/css/style.css') {
-        fs.readFile('css/style.css', (err, data) => {
+    } else if (page === '/css/coin-flip.css') {
+        fs.readFile('css/coin-flip.css', (err, data) => {
             if (err) {
                 res.writeHead(404);
                 return res.end('Stylesheet not found');
